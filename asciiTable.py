@@ -64,7 +64,7 @@ class AsciiTable:
             line+="+"
         return line
     def printTable(self):
-        """Print the whole f*cking table .
+        """Print the whole table .
         Returns:
             table {str} -- the table ready to be printed
         """
