@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/omarelsheekh/codescalers2019AsciiTable.svg?branch=master)](https://travis-ci.com/omarelsheekh/codescalers2019AsciiTable)
+
 # codescalers2019AsciiTable
 This project allow you to fill a table with data and print it on consol
 
